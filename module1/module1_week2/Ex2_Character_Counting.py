@@ -1,4 +1,3 @@
-
 # homework 2
 def count_char_frequency(word):
     frequency_dict = {}

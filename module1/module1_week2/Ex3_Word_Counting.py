@@ -1,4 +1,3 @@
-
 # homework 3
 def count_word(file_path):
     tu_dien_dem = {}
